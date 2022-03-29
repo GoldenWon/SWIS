@@ -31,7 +31,6 @@ def letterA():
 	kit.servo[PINKY].angle = 180
 	
 def letterB():
-	
 	kit.servo[MIDDLE].angle = 0
 	kit.servo[RING].angle = 0
 	kit.servo[PINKY].angle = 0
@@ -183,8 +182,6 @@ def letterT():
 	kit.servo[MIDDLE].angle = 180
 	kit.servo[RING].angle = 180
 	kit.servo[PINKY].angle = 180
-	
-	
 	
 def testWrist():
 	kit.servo[WRIST].angle = 0

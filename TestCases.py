@@ -95,3 +95,48 @@ time.sleep(2)
 # back to straight
 fingersStraight()
 time.sleep(0.8)
+
+# try 'P'
+letterP()
+# wait
+time.sleep(2)
+
+# back to straight
+fingersStraight()
+time.sleep(0.8)
+
+# try 'Q'
+letterQ()
+# wait
+time.sleep(2)
+
+# back to straight
+fingersStraight()
+time.sleep(0.8)
+
+# try 'R'
+letterR()
+# wait
+time.sleep(2)
+
+# back to straight
+fingersStraight()
+time.sleep(0.8)
+
+# try 'S'
+letterS()
+# wait
+time.sleep(2)
+
+# back to straight
+fingersStraight()
+time.sleep(0.8)
+
+# try 'T'
+letterT()
+# wait
+time.sleep(2)
+
+# back to straight
+fingersStraight()
+time.sleep(0.8)
